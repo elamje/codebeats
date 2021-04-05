@@ -11,7 +11,7 @@ A curated list of the best playlists available for coding and flow state. Update
 
 * [Binaural Beats: Focus by Spotify (no vocals)](https://open.spotify.com/playlist/37i9dQZF1DX7EF8wVxBVhG)
 
-* [Creativity Boost by Spotify](https://open.spotify.com/playlist/37i9dQZF1DX56qfiUZBncF?si=3859de8afa294039)
+* [Creativity Boost by Spotify](https://open.spotify.com/playlist/37i9dQZF1DX56qfiUZBncF)
 
 # Apple
 * Make a pull request!
