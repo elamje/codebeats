@@ -1,5 +1,5 @@
 # codebeats
-A curated list of the best playlists available for coding and flow state.
+A curated list of the best playlists available for coding and flow state. Updated and maintained by programmers. **Please file an issue if you have a top playlist available on Spotify, Apple, YouTube, or another web site that you would like to share.**
 
 # Spotify
 
